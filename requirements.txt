@@ -1,1 +1,2 @@
-kivy
+kivy==2.0.0
+git+git://github.com/kivymd/KivyMD@master#egg=KivyMD
