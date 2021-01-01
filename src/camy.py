@@ -19,7 +19,7 @@ Builder.load_string(
 
         Camera:
             id: cam
-            resolution: self.height, self.width
+            resolution: self.width, self.height
 
         MDBoxLayout:
             size_hint_y: None
